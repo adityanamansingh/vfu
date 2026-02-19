@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 347.51">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-family: Montserrat-Medium, Montserrat;
+        font-size: 66.54px;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 100.83px;
+        font-weight: 700;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: .01em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="64.74" y1="174.59" x2="312.6" y2="174.59" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#378de2"/>
+      <stop offset=".46" stop-color="#5a0dd3"/>
+      <stop offset=".88" stop-color="#cc117c"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-3" d="M288.06,93.49c59.68,70.73,2.95,173.48-89.05,160.95-49.47-6.74-92.31-47.49-88.05-99.88,3.22-39.57,43.08-65.75,77.55-40.23,57.92-39.15,107.7,47.43,55.95,87.67-6.76,5.26-25.78,16.02-31.96,6-8.53-13.84,7.68-16.42,15-21.83,2.42-1.79,8.52-7.75,10.26-10.12,18.26-24.83-7.73-65.52-36.6-44.53-5.68,4.13-8.71,11.96-17.04,7.58-10.64-5.58-12.71-16.3-29.31-13.17-22.55,4.26-24.48,38.15-18.99,55.81,20.72,66.67,127.79,72.22,150.69,1.15,22.77-70.7-51-120.73-114.85-111.45-76.17,11.06-109.81,87.93-65.73,151.52,5.95,8.58,15.52,15.12,20.13,24.12l-6.05,26.9c1.37,1.28,16.99-6.69,19.59-8.14,7.06-3.95,12.62-12.53,21.75-5.45,17.83,13.8-21.78,29.37-30.88,32.56-7.13,2.51-31.79,11.13-36.59,4.34-4.63-6.55,8.44-34.8,8.68-43.77-50.54-52.26-53.91-139.87,11.19-182.24,54.3-35.34,131.87-28.1,174.31,22.2Z"/>
+  <g>
+    <text class="cls-9" transform="translate(346.26 170.25)"><tspan class="cls-8" x="0" y="0">V</tspan><tspan class="cls-1" x="74.71" y="0">i</tspan><tspan class="cls-5" x="105.06" y="0">v</tspan><tspan class="cls-1" x="163.84" y="0">ek </tspan><tspan class="cls-7" x="322.54" y="0">K</tspan><tspan x="395.43" y="0">umar</tspan></text>
+    <text class="cls-2" transform="translate(362.79 247.13)"><tspan x="0" y="0">vi</tspan><tspan class="cls-6" x="55.76" y="0">v</tspan><tspan class="cls-4" x="91.96" y="0">ek</tspan><tspan class="cls-11" x="173.68" y="0">f</tspan><tspan x="196.64" y="0">o</tspan><tspan class="cls-12" x="238.89" y="0">r</tspan><tspan class="cls-6" x="267.17" y="0">y</tspan><tspan x="303.37" y="0">ou</tspan><tspan class="cls-10" x="390.68" y="0">.</tspan><tspan x="404.99" y="0">official</tspan></text>
+  </g>
+</svg>

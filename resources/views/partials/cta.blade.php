@@ -1,4 +1,4 @@
-<div class="mt-12 grid lg:grid-cols-2 gap-6 items-stretch">
+<div class=" max-w-6xl mx-auto mt-12 grid lg:grid-cols-2 gap-6 ">
   <div class="bg-blue-purple-pink text-white rounded-lg p-8 flex flex-col justify-center">
     <h3 class="text-2xl font-bold" data-i18n="ctaHeading">Ready for meaningful change?</h3>
     <p class="mt-2" data-i18n="ctaText">Take the first step towards emotional clarity and deeper connections. Your journey of transformation begins with a single conversation.</p>
